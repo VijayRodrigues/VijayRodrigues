@@ -14,14 +14,16 @@ Take recruitment, for example:
 
 This shift fueled my passion for **solving data challenges**, and today, I work with **Apache Spark, PySpark, Azure Databricks, Snowflake, and Python** to build **high-performance data solutions**.  
 
+
 ## 🔧 Tech Stack & Expertise  
 
-🔹 **Big Data & Cloud:** Apache Spark, PySpark, Azure Databricks, Snowflake  
-🔹 **ETL & Data Processing:** SQL Server, SSIS, Airflow, DBT  
-🔹 **Programming:** Python 🐍, R, SQL, NoSQL  
-🔹 **Automation & Web Scraping:** Selenium, BeautifulSoup, Flask  
-🔹 **Version Control & Collaboration:** Git, GitHub, Jira  
-🔹 **Data Formats:** Parquet, Delta, JSON, CSV, Excel  
+🔹 **Big Data & Cloud** ☁️: Apache Spark ⚡, PySpark, Azure Databricks, Snowflake ❄️  
+🔹 **ETL & Data Processing** 🔄: SQL Server 🗄️, SSIS, Airflow 🌬️, DBT  
+🔹 **Programming** 💻: Python 🐍, R 📊, SQL, NoSQL  
+🔹 **Automation & Web Scraping** 🤖: Selenium 🌐, BeautifulSoup 🍜, Flask 🔥  
+🔹 **Version Control & Collaboration** 🔄: Git 🌱, GitHub 🏆, Jira 📌  
+🔹 **Data Formats** 📂: Parquet 📦, Delta 🔼, JSON 📜, CSV 📑, Excel 📊  
+
 
 ## 🌍 Interests & Beyond Data  
 
