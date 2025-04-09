@@ -18,7 +18,7 @@ This shift fueled my passion for **solving data challenges**, and today, I work 
 ## 🔧 Tech Stack & Expertise  
 
 🔹 **Big Data & Cloud** ☁️: Apache Spark ⚡, PySpark, Azure Databricks, Snowflake ❄️  
-🔹 **ETL & Data Processing** 🔄: SQL Server 🗄️, SSIS, Airflow 🌬️, DBT  
+🔹 **ETL & Data Processing** 🔄: SQL Server 🗄️, SSIS, Apache Airflow 🌬️, DBT  
 🔹 **Programming** 💻: Python 🐍, R 📊, SQL, NoSQL  
 🔹 **Automation & Web Scraping** 🤖: Selenium 🌐, BeautifulSoup 🍜, Flask 🔥  
 🔹 **Version Control & Collaboration** 🔄: Git 🌱, GitHub 🏆, Jira 📌  
