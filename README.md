@@ -27,7 +27,7 @@ This shift fueled my passion for **solving data challenges**, and today, I work 
 
 ## 🌍 Interests & Beyond Data  
 
-- 💰 **Currency Collector:** I’ve collected currency notes from **170+ countries** over the last **17 years**.  
+- 💰 **Currency Collector:** I’ve collected currency notes from **180+ countries** over the last **17 years**.  
 - 🔭 **Space & Astronomy Enthusiast:** Fascinated by **exoplanets** and the **mysteries of the universe**.  
 - 📚 **Lifelong Learner:** Continuously exploring **AI, cloud technologies, and big data trends**.  
 
