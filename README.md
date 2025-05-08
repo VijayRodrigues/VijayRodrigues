@@ -36,5 +36,5 @@ This shift fueled my passion for **solving data challenges**, and today, I work 
 ### 📫 Connect with Me  
 💼 **LinkedIn:** [linkedin.com/in/vijayrodrigues](https://www.linkedin.com/in/vijayrodrigues)  
 🌐 **Portfolio:** [vijayrodrigues.com](https://www.vijayrodrigues.com)  
-💻 HackerRank: ** [hackerrank.com](https://www.hackerrank.com/profile/vijayrodrigues18) 
+💻 **HackerRank:** [hackerrank.com](https://www.hackerrank.com/profile/vijayrodrigues18) 
 
