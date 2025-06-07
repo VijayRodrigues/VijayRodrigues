@@ -79,20 +79,4 @@ This shift fueled my passion for **solving data challenges**, and today, I work 
 </p>
 
 
-
-<table>
-  <tr>
-    <!-- GitHub Stats - Left Side -->
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=vijayrodrigues&show_icons=true&theme=default" width="420"/>
-    </td>
-
-    <!-- Right Side - Two stacked cards -->
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayrodrigues&layout=compact" width="420"/><br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayrodrigues" width="420"/>
-    </td>
-  </tr>
-</table>
-
 ---
