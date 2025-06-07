@@ -28,6 +28,8 @@ This shift fueled my passion for **solving data challenges**, and today, I work 
 🔹 **Version Control & Collaboration** 🔄: Git 🌱, GitHub 🏆, Jira 📌  
 🔹 **Data Formats** 📂: Parquet 📦, Delta 🔼, JSON 📜, CSV 📑, Excel 📊  
 
+<br>
+
 
 ## 📜 Certifications & Education
 
@@ -40,7 +42,8 @@ This shift fueled my passion for **solving data challenges**, and today, I work 
 🌐 [**Apache Airflow Fundamentals**](https://www.credly.com/earner/earned/badge/598caee3-250d-40bf-bc11-c3b3517ffc2e) – Astronomer  
 ❄️ [**Hands-On Essentials: Data Engineering**](https://achieve.snowflake.com/52122c22-fe20-4846-93ed-d9b303ca30ec#acc.s9LAHWJy) – Snowflake
 
-- 
+
+<br>
 
 ## 🌍 Interests & Beyond Data  
 
@@ -48,7 +51,9 @@ This shift fueled my passion for **solving data challenges**, and today, I work 
 - 🔭 **Space & Astronomy Enthusiast:** Fascinated by **exoplanets** and the **mysteries of the universe**.  
 - 📚 **Lifelong Learner:** Continuously exploring **AI, cloud technologies, and big data trends**.  
 
----
+
+<br>
+
 
 ### 📫 Connect with Me  
 💼 **LinkedIn:** [linkedin.com/in/vijayrodrigues](https://www.linkedin.com/in/vijayrodrigues)  
@@ -56,9 +61,10 @@ This shift fueled my passion for **solving data challenges**, and today, I work 
 💻 **HackerRank:** [hackerrank.com/profile/vijayrodrigues18](https://www.hackerrank.com/profile/vijayrodrigues18) 
 
 
+<br>
+
 
 ## 📊 GitHub Stats
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vijayrodrigues&show_icons=true&theme=default" width="500"/>
@@ -71,3 +77,5 @@ This shift fueled my passion for **solving data challenges**, and today, I work 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayrodrigues" width="500"/>
 </p>
+
+---
