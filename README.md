@@ -82,15 +82,15 @@ This shift fueled my passion for **solving data challenges**, and today, I work 
 
 <table>
   <tr>
-    <!-- Left column: GitHub Stats -->
+    <!-- Left side: GitHub Stats -->
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=vijayrodrigues&show_icons=true&theme=default" width="450" height="300"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=vijayrodrigues&show_icons=true&theme=default" width="420"/>
     </td>
 
-    <!-- Right column: Top Langs and Streak stacked -->
+    <!-- Right side: Top Langs + Streak vertically -->
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayrodrigues&layout=compact" width="450" height="145"/><br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayrodrigues" width="450" height="145"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayrodrigues&layout=compact" width="420"/><br><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayrodrigues" width="420"/>
     </td>
   </tr>
 </table>
