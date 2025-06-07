@@ -1,11 +1,13 @@
 # 👋 Hi, I'm Vijay Rodrigues  
 
+---
+
 ## 🧑‍💻 About Me
 
 With **6.4+ years of experience**, I specialize in **data engineering, analytics, and automation**—helping businesses transform raw data into meaningful insights.  
 My work spans across **APAC, ANZ, and North America** in the **insurance sector**, where I design and optimize **scalable ETL pipelines**, ensuring **efficient data processing and migration**.
 
----
+<br>
 
 ### 💡 My Journey: From Recruitment to Data Engineering
 
@@ -57,7 +59,7 @@ This shift fueled my passion for **solving data challenges**, and today I work w
 <br>
 
 
-### 📫 Connect with Me  
+## 📫 Connect with Me  
 💼 **LinkedIn:** [linkedin.com/in/vijayrodrigues](https://www.linkedin.com/in/vijayrodrigues)  
 🌐 **Portfolio:** [vijayrodrigues.com](https://www.vijayrodrigues.com)  
 💻 **HackerRank:** [hackerrank.com/profile/vijayrodrigues18](https://www.hackerrank.com/profile/vijayrodrigues18) 
