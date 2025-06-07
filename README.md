@@ -66,15 +66,15 @@ This shift fueled my passion for **solving data challenges**, and today, I work 
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=vijayrodrigues&show_icons=true&theme=default" width="500"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayrodrigues&layout=compact" width="500"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayrodrigues" width="500"/>
 </p>
 
