@@ -4,6 +4,8 @@
 
 With **6.4+ years of experience**, I specialize in **data engineering, analytics, and automation**—helping businesses **transform raw data into meaningful insights**. My work spans across **APAC, ANZ, and North America** in the **insurance sector**, where I design and optimize **scalable ETL pipelines**, ensuring **efficient data processing and migration**.  
 
+<br><br>
+
 ## 💡 My Journey: From Recruitment to Data Engineering  
 
 I initially started my career as an **IT Recruiter**, but my fascination with **data and analytics** led me to transition into data engineering. Looking back, I realized that no matter what profession we work in, we all engage in some form of **analysis**.  
@@ -13,6 +15,8 @@ Take recruitment, for example:
 - 🎯 **Storytelling:** In analytics, we derive insights from data; in recruitment, we break down information and present it meaningfully to both **clients** and **candidates**.  
 
 This shift fueled my passion for **solving data challenges**, and today, I work with **Apache Spark, PySpark, Azure Databricks, Snowflake, and Python** to build **high-performance data solutions**.  
+
+<br><br>
 
 
 ## 🔧 Tech Stack & Expertise  
