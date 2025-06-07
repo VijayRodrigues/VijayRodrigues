@@ -37,8 +37,10 @@ This shift fueled my passion for **solving data challenges**, and today I work w
 
 ## 📜 Certifications & Education
 
-🎓 **Postgraduate Program in Artificial Intelligence & Machine Learning** ([view certificate](https://la.utexas.edu/texasexeced/digitalVerification.html?key=tcofmefv))
+🎓 **Postgraduate Program in Artificial Intelligence & Machine Learning** ([view certificate](https://la.utexas.edu/texasexeced/digitalVerification.html?key=tcofmefv)) <br>
    – Texas McCombs School of Business
+   
+   <br>
 
 🏅 **Databricks Certified Data Engineer Associate** ([view certificate](https://credentials.databricks.com/43e82103-9f0c-4779-b774-e43c88d5f566#acc.UNb8P7BV)) <br>
 🧱 **dbt Fundamentals** ([view certificate](https://credentials.getdbt.com/f7620546-71e8-44dd-a46e-f245caa9beab#acc.Lgl9Je7A)) <br>
