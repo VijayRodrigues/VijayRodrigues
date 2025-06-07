@@ -40,7 +40,7 @@ This shift fueled my passion for **solving data challenges**, and today I work w
 🎓 [**Postgraduate Program in Artificial Intelligence & Machine Learning**](https://la.utexas.edu/texasexeced/digitalVerification.html?key=tcofmefv)  
    – Texas McCombs School of Business
 
-🏅 Databricks Certified Data Engineer Associate - **Databricks** ([**view certificate**](https://credentials.databricks.com/43e82103-9f0c-4779-b774-e43c88d5f566#acc.UNb8P7BV)) 
+🏅 Databricks Certified Data Engineer Associate ([**view certificate**](https://credentials.databricks.com/43e82103-9f0c-4779-b774-e43c88d5f566#acc.UNb8P7BV)) <br>
 🧱 [**dbt Fundamentals**](https://credentials.getdbt.com/f7620546-71e8-44dd-a46e-f245caa9beab#acc.Lgl9Je7A) – dbt Labs  
 🌬️ [**DAG Authoring for Apache Airflow**](https://www.credly.com/earner/earned/badge/73f58b62-97ae-42c6-ad2d-3b1e24c91126) – Astronomer  
 🌐 [**Apache Airflow Fundamentals**](https://www.credly.com/earner/earned/badge/598caee3-250d-40bf-bc11-c3b3517ffc2e) – Astronomer  
