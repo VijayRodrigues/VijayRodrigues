@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 About Me
 
-With **6.5+ years of experience**, I specialize in **data engineering, analytics, and automation**—helping businesses transform raw data into meaningful insights.  
+With **7+ years of experience**, I specialize in **data engineering, analytics, and automation**—helping businesses transform raw data into meaningful insights.  
 My work spans across **APAC, ANZ, and North America** in the **insurance sector**, where I design and optimize **scalable ETL pipelines**, ensuring **efficient data processing and migration**.
 
 <br>
