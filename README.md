@@ -2,11 +2,13 @@
 
 ## 🧑‍💻 About Me
 
-Data Engineer with **7+ years of experience** building ETL/ELT pipelines, data platforms, migration frameworks, and analytics solutions across APAC, ANZ, and North America within the insurance domain.
+I'm a Data Engineer with **7+ years of experience** building data platforms, ETL/ELT pipelines, migration frameworks, and analytics solutions across APAC, ANZ, and North America within the insurance industry.
 
-My work has focused on cloud modernization, data migration, platform development, data quality, and analytics enablement using modern data engineering technologies.
+Throughout my career, I've worked on large-scale data migration, cloud modernization, analytics enablement, and data quality initiatives, with a focus on building reliable and scalable solutions that help organizations make better use of their data.
 
-More recently, I'm exploring how Generative AI can enhance data engineering workflows through intelligent tooling, automation, metadata analysis, and developer productivity solutions.
+My primary expertise lies in **Azure Databricks, Apache Spark, PySpark, SQL, Snowflake, Airflow, and dbt**, and I enjoy solving problems related to data processing, platform engineering, data quality, and performance optimization.
+
+Lately, I've been exploring how **Generative AI can complement data engineering**, particularly in areas such as metadata intelligence, analytics acceleration, developer productivity, and intelligent data tooling.
 
 ---
 
