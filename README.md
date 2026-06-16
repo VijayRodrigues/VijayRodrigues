@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vijay Rodrigues
+# 👋 Hi, I'm Vijay Ashley Rodrigues
 
 ## 🧑‍💻 About Me
 
