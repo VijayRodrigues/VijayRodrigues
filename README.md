@@ -10,7 +10,7 @@ My primary expertise lies in **Azure Databricks, Apache Spark, PySpark, SQL, Sno
 
 Lately, I've been exploring how **Generative AI can complement data engineering**, particularly in areas such as metadata intelligence, analytics acceleration, developer productivity, and intelligent data tooling.
 
----
+----
 
 ## 🔧 Core Technologies
 
